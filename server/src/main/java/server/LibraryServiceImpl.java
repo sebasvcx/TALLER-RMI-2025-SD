@@ -26,7 +26,7 @@ public class LibraryServiceImpl extends UnicastRemoteObject implements LibrarySe
         try {
             repo.ensureInit();
             loadFromDisk();                 // <-- carga inicial real
-            if (books.isEmpty()) {          // Si está vacío, inicializa con un par de libros demo
+            if (books.isEmpty()) {          // Si está vacío, inicializa con un  algunos libros de demo
                 var b1 = new Book("978-0132350884", "Clean Code", 3, 0);
                 var b2 = new Book("978-0262033848", "CLRS", 2, 1);
                 books.put(b1.getIsbn(), b1); titleToIsbn.put(b1.getTitle(), b1.getIsbn());
