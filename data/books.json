@@ -1,0 +1,13 @@
+[ {
+  "isbn" : "978-0132350884",
+  "title" : "Clean Code",
+  "totalCopies" : 3,
+  "lentCopies" : 0,
+  "available" : 3
+}, {
+  "isbn" : "978-0262033848",
+  "title" : "CLRS",
+  "totalCopies" : 2,
+  "lentCopies" : 1,
+  "available" : 1
+} ]

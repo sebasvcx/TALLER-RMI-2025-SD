@@ -1,17 +1,6 @@
 [
-  {"isbn":"978-0307474728", "title":"Cien años de soledad", "totalCopies":5, "lentCopies":1},
-  {"isbn":"978-0156012195", "title":"El principito", "totalCopies":4, "lentCopies":0},
-  {"isbn":"978-0679785897", "title":"Don Quijote de la Mancha", "totalCopies":3, "lentCopies":1},
-  {"isbn":"978-0743273565", "title":"El gran Gatsby", "totalCopies":2, "lentCopies":0},
-  {"isbn":"978-0142437230", "title":"Moby Dick", "totalCopies":3, "lentCopies":2},
-  {"isbn":"978-0451524935", "title":"1984", "totalCopies":6, "lentCopies":3},
-  {"isbn":"978-0140449266", "title":"La Odisea", "totalCopies":2, "lentCopies":0},
-  {"isbn":"978-0140449181", "title":"La Ilíada", "totalCopies":2, "lentCopies":1},
-  {"isbn":"978-0142437179", "title":"Orgullo y prejuicio", "totalCopies":5, "lentCopies":2},
-  {"isbn":"978-0486282114", "title":"Hamlet", "totalCopies":3, "lentCopies":1},
-  {"isbn":"978-0553212419", "title":"Crimen y castigo", "totalCopies":4, "lentCopies":2},
-  {"isbn":"978-0143105428", "title":"Anna Karenina", "totalCopies":3, "lentCopies":1},
-  {"isbn":"978-0451526342", "title":"Fahrenheit 451", "totalCopies":4, "lentCopies":0},
-  {"isbn":"978-0061122415", "title":"Matar a un ruiseñor", "totalCopies":3, "lentCopies":1},
-  {"isbn":"978-0140449334", "title":"La Divina Comedia", "totalCopies":2, "lentCopies":1}
+  {"isbn":"978-0132350884","title":"Clean Code","totalCopies":3,"lentCopies":0},
+  {"isbn":"978-0262033848","title":"CLRS","totalCopies":2,"lentCopies":1},
+  {"isbn":"978-0307474728","title":"Cien años de soledad","totalCopies":5,"lentCopies":1},
+  {"isbn":"978-0156012195","title":"El principito","totalCopies":4,"lentCopies":0}
 ]
