@@ -28,6 +28,8 @@ Desde la raíz del proyecto:
 
 ```bash
 ./mvnw clean package -DskipTests
+o
+mvn clean package -DskipTests
 ```
 
 Esto genera:
